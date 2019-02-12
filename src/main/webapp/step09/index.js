@@ -41,3 +41,4 @@ function handleOffline(){
 
 window.addEventListener("offline", handleOffline);
 window.addEventListener("online", handleOnline);
+
